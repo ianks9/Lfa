@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528266359 source:c:\users\iancu\desktop\cod\lfa\proiect 3\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
